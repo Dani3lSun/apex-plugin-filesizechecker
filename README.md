@@ -1,4 +1,4 @@
-#Oracle Apex DynamicAction Plugin - Filesize Checker
+#Oracle APEX DynamicAction Plugin - Filesize Checker
 This plugin checks/validates the max size of an file input field. The validation is handled on client side via Javascript.
 If the input file is greater than max. allowed size a Javascript alert is thrown and the file item is cleared.
 
