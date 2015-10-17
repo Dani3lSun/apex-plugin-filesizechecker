@@ -15,6 +15,7 @@ The plugin settings are highly customizable and you can change:
 - Max size (in byte) - Maximum allowed size of a file in Byte. Default is 1MB (1048576 bytes)
 - File Input Item - Choose the file input item for this action
 - Alert text - Alert text if the file size is greater than allowed max. size
+- Alert type - Choose between simple JS alert or Apex 5 dialog window
 - Alert Text (no Browser Support) - Alert text if the browser doesn´t support this feature.
 
 ## How to use
