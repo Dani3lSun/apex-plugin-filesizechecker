@@ -3,11 +3,12 @@ This plugin checks/validates the max size of an file input field. The validation
 If the input file is greater than max. allowed size a Javascript alert is thrown and the file item is cleared.
 
 ##Changelog
+####1.1 - Added different alert types (simple JS alert and Apex dialog)
 ####1.0 - Initial Release
 
 ##Install
 - Import plugin file "dynamic_action_plugin_de_danielh_filesizechecker.sql" from source directory into your application
-- (Optional) Deploy the JS file from "server" directory on your webserver and change the "File Prefix" to webservers folder.
+- (Optional) Deploy the CSS/JS file from "server" directory on your webserver and change the "File Prefix" to webservers folder.
 
 ##Plugin Settings
 The plugin settings are highly customizable and you can change:
