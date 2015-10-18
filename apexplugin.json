@@ -1,6 +1,6 @@
 {
   "name" : "Filesize Checker",
-  "version" : "1.0",
+  "version" : "1.1",
   "description" : "This plugin checks/validates the max size of an file input field. The validation is handled on client side via Javascript.",
   "keywords" : ["file size", "checker", "max size"],
   "homepage" : "https://github.com/Dani3lSun/apex-plugin-filesizechecker",
