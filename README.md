@@ -22,7 +22,7 @@ The plugin settings are highly customizable and you can change:
 Create a new Dynamic Action with event "on change" on your file input item. As action choose "Filesize Checker".
 
 ## Demo Application
-https://apex.oracle.com/pls/apex/f?p=57743:12
+https://apex.oracle.com/pls/apex/f?p=APEXPLUGIN
 
 ## Preview
 ![](https://github.com/Dani3lSun/apex-plugin-filesizechecker/blob/master/preview.png)
